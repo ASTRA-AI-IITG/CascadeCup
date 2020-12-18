@@ -24,7 +24,7 @@ The evaluation metric for this competition was the Weighted F1 Score. In Weighte
 ## Data 
 The data was provided by Trell in the CSV format(the same has been included in the repo) and consisted of basic details about the user and thier activity on the social media platform of Trell.
 
-###### Data fields:
+##### Data fields:
 
 'userId'
 : Unique number given to each user.
@@ -101,7 +101,7 @@ The data was provided by Trell in the CSV format(the same has been included in t
 'avgt2'
 : Average number of followers of all the accounts followed by the user.
 
-###### Target:
+##### Target:
 
 'age_group'
 : This is a categorical feature denoting the age of the user. Age of users is divided into 4 groups, 1: <18y; 2: 18-24y; 3: 24-30y; 4: >30y
